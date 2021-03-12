@@ -1,4 +1,4 @@
-/**
+ /**
  * Constructor for a Minesweeper game object.
  *
  * @param {String} containerId HTML ID for an empty element to contain this
